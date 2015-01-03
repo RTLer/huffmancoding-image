@@ -1,4 +1,4 @@
-huffmancoding-image
+huffmancoding image
 ===================
 
 save huffmancoding as image
