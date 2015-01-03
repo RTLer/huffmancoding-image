@@ -1,5 +1,5 @@
 var img = new Image();
-img.src = "http://localhost/tests/huffman_coding_img/huffmancoding.php";
+img.src = "huffmancoding.php";
 img.onload = function() {
 	var canvas = $('#canvas')[0].getContext('2d');
 	var h = img.height;
@@ -20,7 +20,7 @@ img.onload = function() {
 		}
 	}
 	// $('#a').html(bstr);
-	$.get('http://localhost/tests/huffman_coding_img/huffmancoding.php?base=t',
+	$.get('huffmancoding.php?base=t',
 			function(data) {
 				bstr = strtr(bstr, data);
 
