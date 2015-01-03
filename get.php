@@ -15,7 +15,7 @@
 		<pre id='b' style="word-break: break-all"></pre>
 		<p id='a' style="word-break: break-all"></p>
 	</div>
-	<script src="jquery.min.js"></script>
+	<script src="//code.jquery.com/jquery-1.11.2.min.js"></script>
 	<script src="script.js"></script>
 </body>
 </html>

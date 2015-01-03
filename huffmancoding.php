@@ -1,5 +1,5 @@
 <?php
-$txt = /*"hooman naghiee"*/file_get_contents ( "./txt/jquery-2.1.1.js" );
+$txt = /*"hooman naghiee"*/file_get_contents ( "./txt/jquery-2.1.1.txt" );
 // $txt = file_get_contents ( "./txt/1.txt" );
 // $txt = "hooman naghiee";
 // **************************huffmancoding
